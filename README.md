@@ -12,20 +12,20 @@
   <img alt="Feito por Vanessa Sousa" src="https://img.shields.io/badge/made%20by-Vanessa%20Sousa-%2304D361">
   </a>
   
-  <a href="https://git.inova.serpro.gov.br/equipe40/e-sive/search?l=typescript">
+  <a href="https://github.com/glaubermarcelino/esive/search?l=typescript">
     <img alt="Quantidade de linguagens" src="https://img.shields.io/gitlab/languages/count/equipe40/e-sive">
   </a>
   
-  <a href="https://git.inova.serpro.gov.br/equipe40/e-sive/stargazers">
+  <a href="https://github.com/glaubermarcelino/esive/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/gitlab/stars/equipe40/e-sive">
   </a>
 </p>
 
-<p align="center"> <img src="https://git.inova.serpro.gov.br/equipe40/e-sive/-/blob/master/screens/e-sive.gif" alt="e-Sive" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/esive/-/blob/master/screens/e-sive.gif" alt="e-Sive" /> </p>
 
 
 ### `Clone this project`
-git clone https://git.inova.serpro.gov.br/equipe40/e-sive.git
+git clone https://github.com/glaubermarcelino/esive.git
 
 ### `Change folder this project`
 cd ./e-sive
