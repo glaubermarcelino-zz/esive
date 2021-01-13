@@ -4,7 +4,7 @@
 <h3 align="center">App que elimina as aglomerações em fila para o serviço de vistoria veicular</h3>
 
 <p align="center">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/gitlab/repo-size/equipe40/e-sive">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/equipe40/e-sive">
   
   <a href="https://www.instagram.com/mrglauber/">
     <img alt="Feito por Glauber Marcelino da Silva" src="https://img.shields.io/badge/made%20by-Glauber%20Marcelino-%2304D361"></a>
@@ -13,11 +13,11 @@
   
   
   <a href="https://github.com/glaubermarcelino/esive/search?l=typescript">
-    <img alt="Quantidade de linguagens" src="https://img.shields.io/gitlab/languages/count/equipe40/e-sive">
+    <img alt="Quantidade de linguagens" src="https://img.shields.io/github/languages/count/equipe40/e-sive">
   </a>
   
   <a href="https://github.com/glaubermarcelino/esive/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/gitlab/stars/equipe40/e-sive">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/equipe40/e-sive">
   </a>
 </p>
 
