@@ -7,10 +7,10 @@
   <img alt="Tamanho do repositório" src="https://img.shields.io/gitlab/repo-size/equipe40/e-sive">
   
   <a href="https://www.instagram.com/mrglauber/">
-    <img alt="Feito por Glauber Marcelino da Silva" src="https://img.shields.io/badge/made%20by-Glauber%20Marcelino-%2304D361">
+    <img alt="Feito por Glauber Marcelino da Silva" src="https://img.shields.io/badge/made%20by-Glauber%20Marcelino-%2304D361"></a>
   <img alt="Feito por Flávia Firmino" src="https://img.shields.io/badge/made%20by-Flavia%20Firmino-%2304D361">
   <img alt="Feito por Vanessa Sousa" src="https://img.shields.io/badge/made%20by-Vanessa%20Sousa-%2304D361">
-  </a>
+  
   
   <a href="https://github.com/glaubermarcelino/esive/search?l=typescript">
     <img alt="Quantidade de linguagens" src="https://img.shields.io/gitlab/languages/count/equipe40/e-sive">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/glaubermarcelino/esive/-/blob/master/screens/e-sive.gif" alt="e-Sive" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/esive/blob/main/screens/e-sive.gif" alt="e-Sive" /> </p>
 
 
 ### `Clone this project`
